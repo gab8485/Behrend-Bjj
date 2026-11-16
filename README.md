@@ -2,7 +2,7 @@
 
 Site do centro de treinamento Behrend BJJ, desenvolvido para apresentar a academia, divulgar modalidades e horários e facilitar o contato de interessados.
 
-🌐 **[Acesse o site]behrend-bjj.netlify.app**
+ 🌐 **[Acesse o site](https://behrend-bjj.netlify.app)**
 
 ## Sobre o projeto
 
